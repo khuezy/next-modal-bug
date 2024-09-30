@@ -6,9 +6,9 @@ export default function Gallery() {
     <h1>Gallery</h1>
 
     <main className={styles.main}>
-      <Link href="/gallery">/Gallery</Link>
-      <Link href="/gallery/dynamic">/Gallery/dynamic</Link>
-      <Link href="/gallery/static">/Gallery/static</Link>
+      <Link href="/gallery">/gallery</Link>
+      <Link href="/gallery/dynamic">/gallery/dynamic</Link>
+      <Link href="/gallery/static">/gallery/static</Link>
     </main>
 
   </div>
